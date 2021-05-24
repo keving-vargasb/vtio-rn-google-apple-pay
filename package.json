@@ -1,6 +1,6 @@
 {
   "name": "vtio-rn-google-apple-pay",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Google and apple pay for React Native",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Kevin Vargas",
   "license": "ISC",
   "dependencies": {
-    "react-native-google-pay": "github:keving-vargasb/react-native-google-pay",
+    "react-native-google-pay": "git+https://github.com/keving-vargasb/react-native-google-pay.git",
     "react-native-rn-apple-pay-button": "^1.1.0"
   }
 }
